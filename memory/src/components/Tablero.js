@@ -1,5 +1,5 @@
 import React, { useState, usesEffect } from 'react';
-import './index.css'
+
 
 const Tablero = () => {
     const [primeraCarta, setPrimeraCarta] = useState([]);
