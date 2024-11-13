@@ -1,9 +1,9 @@
-import infernape from './img/infernape.png';
-import raiquaza from './img/raiquaza.png';
-import swampert from './img/swampert.png';
-import victini from './img/victini.png';
+import infernape from './imagenes/infernape.jpg';
+import raiquaza from './imagenes/raiquaza.jpg';
+import swampert from './imagenes/swampert.jpg';
+import victini from './imagenes/victini.jpg';
 
-const images = [
+const pokemons = [
     {
       src: infernape,
       player: 'Infernape'
@@ -38,4 +38,4 @@ const images = [
     },
   ];
   
-  export { images } 
+  export { pokemons } 

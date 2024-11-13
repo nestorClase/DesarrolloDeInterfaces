@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import ReactCardFlip from "react-card-flip";
-import Atras from "../images/Pokeball.jpg";
+import Atras from "../imagenes/Pokeball.jpg";
 
 const Cards = (nombre, numero, urlImagen) => {
     const[estaGirada, setEstaGirada] = useState(false);
